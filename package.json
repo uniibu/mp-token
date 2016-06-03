@@ -11,10 +11,6 @@
     "token",
     "oauth"
   ],
-  "dependencies": {
-    "https": "https",
-    "url": "url"
-  },
   "author": "unibtc@gmail.com",
   "license": "MIT",
   "repository": {
