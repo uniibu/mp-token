@@ -1,0 +1,28 @@
+{
+  "name": "mp-token",
+  "version": "1.0.1",
+  "description": "Programmatically get a new access_token for moneypot.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moneypot",
+    "token",
+    "oauth"
+  ],
+  "dependencies": {
+    "https": "https",
+    "url": "url"
+  },
+  "author": "unibtc@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniibu/mp-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uniibu/mp-token/issues"
+  },
+  "homepage": "https://github.com/uniibu/mp-token#readme"
+}
