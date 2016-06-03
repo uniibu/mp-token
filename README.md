@@ -10,7 +10,9 @@ var args = {
     //your unexpired moneypot.com sessionid you can get this from your browser cookies
 }
 
-mp(args,function(token){
+mp(args,function(error,token){
+ if(error)
+        throw (error);
     console.log(token); //will return a JSON Object {access_token:newToken,expires_in:expirationDate}
 });
 ```
