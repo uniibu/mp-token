@@ -1,6 +1,6 @@
 {
   "name": "mp-token",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Programmatically get a new access_token for moneypot.com",
   "main": "index.js",
   "scripts": {
