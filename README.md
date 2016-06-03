@@ -1,6 +1,6 @@
 # mp-token
 Programmatically get a new access_token for moneypot.com
-
+###Note: the app must have https://www.moneypot.com/oauth/debug as one of their redirect uris
 ##Example
 ```javascript
 var mp = require('mp-token');
